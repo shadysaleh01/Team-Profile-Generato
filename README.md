@@ -17,8 +17,6 @@ npm install
 ### run app.js
 ## Contributing
 ### tst
-## License
-### This project is licensed under the MIT license.
 
 ## Tests
 ### To run tests, run the following command: 

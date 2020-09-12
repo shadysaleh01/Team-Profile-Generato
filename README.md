@@ -16,6 +16,7 @@
 ```
 npm install. npm requirer install
 ```
+
 ## Usage
 ### The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members.
 
@@ -27,5 +28,6 @@ npm install. npm requirer install
  ``` 
 app.js
  ```
+ 
 ## Questions
 ### If you have any questions about the repo, contact me directly at my [Email](mailto:tset). You can find more of my work at my [GitHub](https://github.com/tse).

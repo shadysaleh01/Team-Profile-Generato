@@ -1,6 +1,6 @@
 # **Template Engine - Employee Summary**
+[Full Demo Video](https://drive.google.com/file/d/1K2yR6sHweydU8an7evdnZ2a4W-ZytH38/preview)
 
-<iframe src="https://drive.google.com/file/d/1K2yR6sHweydU8an7evdnZ2a4W-ZytH38/preview" width="640" height="480"></iframe>
 
 ## Table of Contents
 - [Description](#description)

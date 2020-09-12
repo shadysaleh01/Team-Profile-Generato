@@ -28,4 +28,4 @@ app.js
  ```
  
 ## Questions
-### If you have any questions about the repo, contact me directly at my [Email](mailto:tset). You can find more of my work at my [GitHub](https://github.com/tse).
+### If you have any questions about the repo, contact me directly at my [Email](mailto:shadysaleh01@gmail.com). You can find more of my work at my [GitHub](https://github.com/shadysaleh01).

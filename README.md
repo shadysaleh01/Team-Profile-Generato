@@ -4,7 +4,6 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -19,9 +18,6 @@ npm install. npm requirer install
 
 ## Usage
 ### The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members.
-
-## Contributing
-### 
 
 ## Tests
 ### To run tests, run the following command: 

@@ -25,7 +25,7 @@ npm install. npm requirer install
 ## Tests
 ### To run tests, run the following command: 
  ``` 
-run app.js
+app.js
  ```
 ## Questions
 ### If you have any questions about the repo, contact me directly at my [Email](mailto:tset). You can find more of my work at my [GitHub](https://github.com/tse).

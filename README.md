@@ -1,4 +1,6 @@
 # **Template Engine - Employee Summary**
+[Full Demo Video](https://drive.google.com/file/d/1K2yR6sHweydU8an7evdnZ2a4W-ZytH38/preview)
+
 
 ## Table of Contents
 - [Description](#description)
@@ -26,4 +28,4 @@ app.js
  ```
 
 ## Questions
-### If you have any questions about the repo, contact me directly at my [Email](mailto:tset). You can find more of my work at my [GitHub](https://github.com/tse).
+### If you have any questions about the repo, contact me directly at my [Email](mailto:shadysaleh01@gmail.com). You can find more of my work at my [GitHub](https://github.com/shadysaleh01).
